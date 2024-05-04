@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>154cb4df-f24e-11ee-b237-c8b29b61b353.jpg</filename>
+	<path>C:\Users\shrey\Documents\TensorFlow\WorkspaceCNN\project2\images\train\154cb4df-f24e-11ee-b237-c8b29b61b353.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>193</ymin>
+			<xmax>406</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2b4e88bf-f1ba-11ee-8270-c8b29b61b353.jpg</filename>
+	<path>C:\Users\shrey\Documents\TensorFlow\WorkspaceCNN\project2\images\2b4e88bf-f1ba-11ee-8270-c8b29b61b353.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>J</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>140</ymin>
+			<xmax>441</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

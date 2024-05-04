@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1ece048c-f1ba-11ee-8be1-c8b29b61b353.jpg</filename>
+	<path>C:\Users\shrey\Documents\TensorFlow\WorkspaceCNN\project2\images\1ece048c-f1ba-11ee-8be1-c8b29b61b353.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>308</ymin>
+			<xmax>526</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>
